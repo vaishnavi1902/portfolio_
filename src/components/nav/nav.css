@@ -31,3 +31,27 @@ nav a.active {
     background-color: var(--color-bg);
     color: var(--color-white);
 }
+
+
+/* ---------------medium devices-------------------- */
+
+@media screen and (max-width: 1024px){   
+
+}
+
+
+
+/* ---------------small devices -------------------- */
+@media screen and (max-width: 600px){   
+    nav {
+        padding: 0.7rem 1rem;
+    }
+    nav a{
+        background-color: transparent;
+        padding: 0.5rem;
+        border-radius: 50%;
+        display: flex ;
+        color: var(--color-light);
+        font-size:1.1rem;
+    }
+} 
