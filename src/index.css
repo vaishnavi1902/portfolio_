@@ -119,7 +119,7 @@ img{
 
     }
     section {
-        margin-top: 6rem;
+        margin-top: 2rem;
         height: 110vh;
     }
 }
@@ -133,7 +133,7 @@ img{
         height: 110vh;
     }
     section {
-        margin-bottom: 12rem;
-        /* height: 110vh; */
+        margin-bottom: 4rem;
+        height: 110vh;
     }
 }

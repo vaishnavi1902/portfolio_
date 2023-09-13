@@ -50,6 +50,6 @@
 /* ---------------small devices -------------------- */
 @media screen and (max-width: 600px){   
     .education {
-        margin-top: 32rem;
+        margin-top: 30rem;
     }
 }

@@ -80,7 +80,7 @@
 /* ---------------small devices 600px -------------------- */
 @media screen and (max-width: 600px){   
     #about {
-        margin-top: 7rem;
+        margin-top: 1rem;
     }
     .about__content{
         margin-top: 6rem;
