@@ -115,9 +115,11 @@ img{
 @media screen and (max-width: 1024px){   
     .container{
         width: var(--container-width-md);
+
     }
     section {
         margin-top: 6rem;
+        height: 110vh;
     }
 }
 
@@ -127,8 +129,10 @@ img{
 @media screen and (max-width: 600px){   
     .container{
         width: var(--container-width-sm);
+        height: 110vh;
     }
     section {
-        margin-bottom: 2rem;
+        margin-bottom: 12rem;
+        /* height: 110vh; */
     }
 }
