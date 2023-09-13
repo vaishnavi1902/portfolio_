@@ -15,6 +15,7 @@ const Contact = () => {
       }, (error) => {
           console.log(error.text);
       });
+      e.target.reset();
   };
   return (
     <section id='contact' className='container contact__container'>
