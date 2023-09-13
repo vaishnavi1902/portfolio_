@@ -1,6 +1,15 @@
 [
     {
-        "id" : 1 ,
+        "id" : 2 ,
+        "Degree" : "Bachelor of Technology in Computer Science and Engineering",
+        "school" : "G S Mandals Marathwada Institute of Technology , Aurangabad",
+        "university" : "Dr. Babasaheb Ambedkar Marathwada University",
+        "Grade" : "A ",
+        "cgpa" : 8.1,
+        "passing-year" : 2024
+    },
+    {
+        "id" : 2 ,
         "Degree" : "Diploma in Computer Science and Engineering",
         "school" : "CSMSS college of Polytechnic , Aurangabad",
         "university" : "Maharashtra State Board of Technical Education",
@@ -9,12 +18,12 @@
         "passing-year" : 2021
     },
     {
-        "id" : 2 ,
-        "Degree" : "Bachelor of Technology in Computer Science and Engineering",
-        "school" : "G S Mandals Marathwada Institute of Technology , Aurangabad",
-        "university" : "Dr. Babasaheb Ambedkar Marathwada University",
-        "Grade" : "A+",
-        "cgpa" : 8.1,
-        "passing-year" : 2024
+        "id" : 3 ,
+        "Degree" : "SSC",
+        "school" : "S. V. Kendra , Aurangabad",
+        "university" : "Maharashtra State Board of Secondary and Higher secondary Education",
+        "Grade" : "A ",
+        "cgpa" : 8.9 ,
+        "passing-year" : 2018
     }
 ]
