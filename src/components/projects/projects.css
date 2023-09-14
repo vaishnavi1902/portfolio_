@@ -8,16 +8,12 @@
 /* ---------------medium devices-------------------- */
 
 @media screen and (max-width: 1024px){   
-    .projects__container {
-        margin-top: 13rem;
-    }
+
 }
 
 
 
 /* ---------------small devices -------------------- */
 @media screen and (max-width: 600px){   
-    .projects__container  {
-        margin-top: 23rem;
-    }
+
 }

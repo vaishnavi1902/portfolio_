@@ -1,86 +1,82 @@
 [
     {
-        "image" : "",
+        "image" : "skills/html.jpg",
         "name" : "HTML / HTML5"
     },
     {
-        "image" : "",
+        "image" : "skills/css.jpg",
         "name" : "CSS / CSS3"
     },
     {
-        "image" : "",
+        "image" : "skills/js.jpg",
         "name" : "JavaScript"
     },
     {
-        "image" : "",
+        "image" : "skills/bootstrap.png",
         "name" : "Bootstrap"
     },
     {
-        "image" : "",
+        "image" : "skills/reactjs.png",
         "name" : "ReactJS"
     },
     {
-        "image" : "",
+        "image" : "skills/reactnative.png",
         "name" : "React Native"
     },
     {
-        "image" : "",
+        "image" : "skills/php.png",
         "name" : "PHP"
     },
     {
-        "image" : "",
+        "image" : "skills/mysql.png",
         "name" : "MYSQL"
     },
     {
-        "image" : "",
+        "image" : "skills/database.png",
         "name" : "Database"
     },
     {
-        "image" : "",
+        "image" : "skills/nodejs.png",
         "name" : "NodeJS"
     },
     {
-        "image" : "",
+        "image" : "skills/mongodb.png",
         "name" : "MongoDB"
     },
     {
-        "image" : "",
+        "image" : "skills/java.png",
         "name" : "Java"
     },
     {
-        "image" : "",
+        "image" : "skills/git.png",
         "name" : "Git"
     },
     {
-        "image" : "",
+        "image" : "skills/github.png",
         "name" : "Github"
     },
     {
-        "image" : "",
+        "image" : "skills/json.png",
         "name" : "JSON"
     },
     {
-        "image" : "",
+        "image" : "skills/sldc.jfif",
         "name" : "SLDC"
     },
     {
-        "image" : "",
+        "image" : "skills/xampp.png",
         "name" : "XAMPP"
     },
     {
-        "image" : "",
+        "image" : "skills/vscode.png",
         "name" : "VS Code"
     },
     {
-        "image" : "",
-        "name" : "Operating Systems"
-    },
-    {
-        "image" : "",
+        "image" : "skills/oops.png",
         "name" : "OOPS"
     },
     {
-        "image" : "",
+        "image" : "skills/dsa.png",
         "name" : "Data Structures and Algorithms"
     }
 ] 

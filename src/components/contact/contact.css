@@ -24,6 +24,7 @@ form {
     display: flex;
     flex-direction: column;
     gap: 2rem;
+    margin-bottom: 1rem;
 }
 input ,textarea {
     resize: none;
@@ -40,10 +41,7 @@ input ,textarea {
 
 @media screen and (max-width: 1024px){   
     .contact {
-        display: grid;
         grid-template-columns: 100%;
-        gap: 2rem;
-        justify-content: center;
     }
 }
 
@@ -52,10 +50,7 @@ input ,textarea {
 /* ---------------small devices -------------------- */
 @media screen and (max-width: 600px){   
     .contact {
-        display: grid;
         grid-template-columns: 100%;
-        gap: 2rem;
-        justify-content: center;
     }
     .email {
         width: 100%;

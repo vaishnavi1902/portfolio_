@@ -41,7 +41,7 @@
         padding: 1rem 2rem;
     }
     .education {
-        margin-top: 22rem;
+        /* margin-top: 22rem; */
     }
 }
 
@@ -50,6 +50,6 @@
 /* ---------------small devices -------------------- */
 @media screen and (max-width: 600px){   
     .education {
-        margin-top: 30rem;
+        /* margin-top: 30rem; */
     }
 }

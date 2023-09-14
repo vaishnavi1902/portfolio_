@@ -63,13 +63,7 @@ header {
 
 /* ---------------small devices 1024px -------------------- */
 @media screen and (max-width: 1024px){  
-    header {
-        height: 80vh; 
-    }
     .me {
-       /* // display: block;
-        //max-width: 100%;
-       // height: auto; */
         display: block;
         max-width: 50%;
         height: 53%;
@@ -80,15 +74,10 @@ header {
 
 /* ---------------small devices 600px -------------------- */
 @media screen and (max-width: 600px){   
-    header {
-        height: 100vh; 
-        padding-top: 1rem;
-    }
     .scroll__down  , .header__socials{
         display: none;
     }
     .me {
-        display: block;
         max-width: 100%;
         height: auto;
     }

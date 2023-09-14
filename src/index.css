@@ -120,7 +120,7 @@ img{
     }
     section {
         margin-top: 2rem;
-        height: 110vh;
+        height: max-content;
     }
 }
 
@@ -130,10 +130,10 @@ img{
 @media screen and (max-width: 600px){   
     .container{
         width: var(--container-width-sm);
-        height: 110vh;
+        height: max-content;
     }
     section {
         margin-bottom: 4rem;
-        height: 110vh;
+        height: max-content;
     }
 }
