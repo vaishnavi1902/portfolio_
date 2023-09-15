@@ -75,8 +75,10 @@ header {
         display: none;
     }
     .me {
-        max-width: 100%;
-        height: auto;
+        display: block;
+        max-width: 44%;
+        height: 35%;
+        margin: 1% calc(50% - 26%);
     }
     .header__socials_sm{
         display: inline;
@@ -86,3 +88,8 @@ header {
         margin-top: 2rem;
     }
 } 
+@media screen and (max-width: 376px) {
+    .me {
+        margin: 1% calc(50% - 20%);
+    }
+}

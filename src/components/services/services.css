@@ -17,6 +17,7 @@
     padding: 1rem;
 }
 .skill-img:hover {
+    transform: scale(1.2);
     background-color: var(--color-primary-variant);
     -webkit-border-radius: 50%;
     -moz-border-radius: 10px;
