@@ -14,10 +14,7 @@
 }
 .each:hover {
     background-color: var(--color-bg);
-    height: max-content;
-    padding: 2rem 4rem;
     border-color: var(--color-primary);
-    border-radius:20px;
     transform: translateY(5px);
     transition: var(--transition);
 }
@@ -40,16 +37,11 @@
     .each {
         padding: 1rem 2rem;
     }
-    .education {
-        /* margin-top: 22rem; */
-    }
 }
 
 
 
 /* ---------------small devices -------------------- */
 @media screen and (max-width: 600px){   
-    .education {
-        /* margin-top: 30rem; */
-    }
+
 }

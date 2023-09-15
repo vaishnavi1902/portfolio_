@@ -17,8 +17,6 @@ footer a {
 }
 footer a:hover {
     background-color: var(--color-bg);
-    padding: 1rem;
-    border-radius: 10px;
     transition: var(--transition);
 }
 .socials{

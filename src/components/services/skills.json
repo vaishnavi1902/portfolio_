@@ -1,82 +1,82 @@
 [
     {
-        "image" : "skills/html.jpg",
+        "image" : "icons/html.png",
         "name" : "HTML / HTML5"
     },
     {
-        "image" : "skills/css.jpg",
+        "image" : "icons/css.png",
         "name" : "CSS / CSS3"
     },
     {
-        "image" : "skills/js.jpg",
+        "image" : "icons/js.png",
         "name" : "JavaScript"
     },
     {
-        "image" : "skills/bootstrap.png",
+        "image" : "icons/bootstrap.png",
         "name" : "Bootstrap"
     },
     {
-        "image" : "skills/reactjs.png",
+        "image" : "icons/reactjs.png",
         "name" : "ReactJS"
     },
     {
-        "image" : "skills/reactnative.png",
+        "image" : "icons/reactnative.png",
         "name" : "React Native"
     },
     {
-        "image" : "skills/php.png",
+        "image" : "icons/php.png",
         "name" : "PHP"
     },
     {
-        "image" : "skills/mysql.png",
+        "image" : "icons/mysql.png",
         "name" : "MYSQL"
     },
     {
-        "image" : "skills/database.png",
+        "image" : "icons/database.png",
         "name" : "Database"
     },
     {
-        "image" : "skills/nodejs.png",
+        "image" : "icons/nodejs.png",
         "name" : "NodeJS"
     },
     {
-        "image" : "skills/mongodb.png",
+        "image" : "icons/mongodb.png",
         "name" : "MongoDB"
     },
     {
-        "image" : "skills/java.png",
+        "image" : "icons/java.png",
         "name" : "Java"
     },
     {
-        "image" : "skills/git.png",
+        "image" : "icons/git.png",
         "name" : "Git"
     },
     {
-        "image" : "skills/github.png",
+        "image" : "icons/github.png",
         "name" : "Github"
     },
     {
-        "image" : "skills/json.png",
+        "image" : "icons/json.png",
         "name" : "JSON"
     },
     {
-        "image" : "skills/sldc.jfif",
+        "image" : "icons/sldc.png",
         "name" : "SLDC"
     },
     {
-        "image" : "skills/xampp.png",
+        "image" : "icons/xampp.png",
         "name" : "XAMPP"
     },
     {
-        "image" : "skills/vscode.png",
+        "image" : "icons/vscode.png",
         "name" : "VS Code"
     },
     {
-        "image" : "skills/oops.png",
-        "name" : "OOPS"
+        "image" : "icons/figma.png",
+        "name" : "Figma"
     },
     {
-        "image" : "skills/dsa.png",
+        "image" : "icons/dsa.png",
         "name" : "Data Structures and Algorithms"
     }
 ] 
