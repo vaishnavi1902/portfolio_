@@ -14,7 +14,7 @@ const Each = function Each () {
           </div>
           <div className="flexdiv">
             <div>
-                <h5 className='text-light'>{item.university}</h5>
+                <h5 className='uni'>{item.university}</h5>
                 <h5 className='text-light'>{item.school}</h5>
             </div>
             <div>

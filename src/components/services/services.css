@@ -27,7 +27,9 @@
     box-shadow:         0px 0px 30px 0px rgba(0, 140, 255, 0.67);
     transition: var(--transition);
 }
-
+.skill h5{
+    text-align: center;
+}
 .skill h5:hover{
     color: var(--color-primary);
     cursor: default;
