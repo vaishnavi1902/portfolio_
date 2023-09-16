@@ -104,7 +104,9 @@ a:hover {
     color: var(--color-bg);
     background-color: var(--color-primary);
 }
-
+.text-primary{
+    color: var(--color-primary);
+}
 #about img{
     display: block;
     width: 100%;

@@ -1,0 +1,75 @@
+.myproject__container {
+    margin-top: 2rem;
+}
+.eachproject {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 2rem;
+    border: 1px solid var(--color-primary-variant);
+    border-radius: 15px;
+    margin: 1rem;
+    background-color: rgb(26, 26, 62);
+}
+.eachproject:hover {
+    background-color: transparent;
+    transform: scale(1.1);
+    transition: var(--transition);
+
+}
+.eachproject:hover .project-image{
+    border: 1px solid var(--color-primary);
+}
+.project-image {
+    width: 90%;
+    height: 100%;
+    border-radius: 15px;
+}
+p{
+    font-size: 14px;
+}
+.description {
+    color: var(--color-light);
+}
+.getcode {
+    margin-top: 5px;
+    padding: 10px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+
+/* ---------medium devices--------------------- */
+@media screen and (max-width: 1024px){   
+    .eachproject {
+        grid-template-columns: 100%;
+        gap: 1rem;
+    }
+    .project-image {
+        width: 100%;
+        height: 100%;
+        border-radius: 15px;
+    }
+    .eachproject {
+        margin: 0rem;
+    }
+}
+
+/* ---------small devices--------------------- */
+@media screen and (max-width: 600px){   
+    .eachproject {
+        grid-template-columns: 100%;
+        gap: 1rem;
+        padding: 1rem;
+        margin: 0;
+        margin-bottom: 10px;
+        /* text-align: center; */
+    }
+    .project-image {
+        width: 100%;
+    }
+    .eachproject:hover {
+        background-color: transparent;
+        transform: scale(1);
+        transition: var(--transition);
+    }
+}

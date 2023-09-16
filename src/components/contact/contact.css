@@ -55,4 +55,7 @@ input ,textarea {
     .email {
         width: 100%;
     }
+    form {
+        align-items: center
+    }
 }

@@ -6,6 +6,7 @@ import About from './components/about/About'
 import Experience from './components/experiance/Experience'
 import Education from './components/education/Education.jsx'
 import Services from './components/services/Services'
+import Myproject from './components/myprojects/Myproject'
 // import Projects from './components/projects/Projects'
 // import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
@@ -17,7 +18,7 @@ const App = () => {
    <Nav />
    <About />
    <Education /> 
-   {/* <Projects /> */}
+   <Myproject />
    <Experience />
    <Services />
    {/* <Testimonials /> */}
