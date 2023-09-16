@@ -13,8 +13,7 @@ const Eachproject = function Each () {
                 <h2 className='text-primary'>{item.name}</h2>
                 <p className='description'>{item.desciption}</p>
                 <p className='text-primary'>Technologies used : {item.Technologies}</p>
-                <a className='btn getcode' href={item.github} target='_blank'>Github</a>
-
+                <a className='btn getcode' href={item.github} rel='noreferrer' target='_blank'>Github</a>
             </div>
         </div>
       )
