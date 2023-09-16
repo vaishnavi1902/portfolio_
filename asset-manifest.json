@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_/static/css/main.7f43186a.css",
-    "main.js": "/portfolio_/static/js/main.8d099d72.js",
+    "main.js": "/portfolio_/static/js/main.5c9d54e3.js",
     "static/media/me2.jpg": "/portfolio_/static/media/me2.6f0b1fed6dcfdeafbdc4.jpg",
     "static/media/me1.png": "/portfolio_/static/media/me1.551eaef82d916a41c012.png",
     "static/media/Vaishnavi_kumbhakarna_Resume.pdf": "/portfolio_/static/media/Vaishnavi_kumbhakarna_Resume.7b3854fc697c772e926c.pdf",
@@ -11,10 +11,10 @@
     "static/media/revicons.woff": "/portfolio_/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/portfolio_/index.html",
     "main.7f43186a.css.map": "/portfolio_/static/css/main.7f43186a.css.map",
-    "main.8d099d72.js.map": "/portfolio_/static/js/main.8d099d72.js.map"
+    "main.5c9d54e3.js.map": "/portfolio_/static/js/main.5c9d54e3.js.map"
   },
   "entrypoints": [
     "static/css/main.7f43186a.css",
-    "static/js/main.8d099d72.js"
+    "static/js/main.5c9d54e3.js"
   ]
 }
