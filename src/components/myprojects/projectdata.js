@@ -19,7 +19,7 @@ export const responsive = {
   },
 };
 
-export const productData = [
+export const projectData = [
   {
     name : "Atmayoga",
     github : "https://github.com/vaishnavi1902/Atmayoga",

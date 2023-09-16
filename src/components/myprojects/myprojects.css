@@ -37,7 +37,9 @@ p{
     font-weight: 600;
 }
 
-
+.react-multi-carousel-dot-list {
+    display: none !important;
+}
 /* ---------medium devices--------------------- */
 @media screen and (max-width: 1024px){   
     .eachproject {
@@ -62,7 +64,6 @@ p{
         padding: 1rem;
         margin: 0;
         margin-bottom: 10px;
-        /* text-align: center; */
     }
     .project-image {
         width: 100%;

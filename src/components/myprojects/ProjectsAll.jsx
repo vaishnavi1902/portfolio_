@@ -1,12 +1,12 @@
 import './myprojects.css'
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import Testproducts from "./Testproducts";
-import { productData, responsive } from "./data";
+import EachProject from "./EachProject";
+import { projectData, responsive } from "./projectdata";
 
 export default function Testmycode() {
-  const product = productData.map((item) => (
-    <Testproducts
+  const project = projectData.map((item) => (
+    <EachProject
       name={item.name}
       github={item.github}
       image={item.image}
@@ -20,7 +20,7 @@ export default function Testmycode() {
         <h5>All my recent</h5>
         <h2>Projects !</h2>
         <Carousel showDots={true} responsive={responsive} infinite={true}>
-          {product}
+          {project}
         </Carousel>
       </section>
 

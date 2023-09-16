@@ -16,9 +16,9 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="socials">
-        <a href="https://www.linkedin.com/in/vaishnavi-kumbhakarna-838a13221/" className='icons'><BsLinkedin /></a>
-        <a href="http://github.com/vaishnavi1902" className='icons'><BsGithub /></a>
-        <a href="mailto:kumbhakarna.vaishnavi01@gmail.com" className='icons'><AiOutlineMail /></a>
+        <a href="https://www.linkedin.com/in/vaishnavi-kumbhakarna-838a13221/" target='_blank' rel='noreferrer' className='icons'><BsLinkedin /></a>
+        <a href="http://github.com/vaishnavi1902" target='_blank' rel='noreferrer' className='icons'><BsGithub /></a>
+        <a href="mailto:kumbhakarna.vaishnavi01@gmail.com" target='_blank' rel='noreferrer'className='icons'><AiOutlineMail /></a>
       </div>
     </footer>
   )
