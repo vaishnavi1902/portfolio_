@@ -1,0 +1,45 @@
+.experience {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    padding: 2rem;
+    border: 1px solid var(--color-primary-variant);
+    border-radius: 12px;
+    background-color:  var(--color-bg-variant);
+}
+.experience:hover {
+    background-color: transparent;
+    transform: scale(1.02);
+    transition: var(--transition);
+}
+.experience:hover p {
+    color: white;
+}
+.experience:hover .technologies{
+   color: var(--color-primary);
+}
+.experience__container p{
+    margin-bottom: 10px;
+}
+.checkic {
+    margin-right: 10px;
+}
+.role {
+    padding: 1rem;
+}
+.job {
+    margin-top: 1rem;
+    width: 100%;
+    border-radius: 8px;
+}
+.desc {
+    padding: 1rem;
+}
+
+/* ----------------smaller and medium devices--------------------------- */
+
+@media only screen and (max-width : 1024px) {
+    .experience {
+        display: grid;
+        grid-template-columns: 100%;
+    }
+}
