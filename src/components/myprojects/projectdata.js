@@ -24,7 +24,7 @@ export const projectData = [
     name : "Atmayoga",
     github : "https://github.com/vaishnavi1902/Atmayoga",
     image : "projects/atmayoga.png",
-    desciption : "Atmayoga => A project in which we are giving a brief guidence for doing Yoga / Exercises / Meditation for alltypes of peaple having different age criteria. There is a special login and dashboard for each user and Admin. In this project we provide the yoga plans according to the need of person considering the age , physic and health of user .",
+    desciption : "Atmayoga => A project in which we are giving a brief guidence for doing Yoga / Exercises / Meditation for all types of peaple having different age criteria. There is a special login and dashboard for each user and Admin. In this project we provide the yoga plans according to the need of person considering the age , physic and health of user .",
     Technologies : "HTML5 , CSS3 , Bootstrap 5, Javascript, PHP , MySQL ,SQL, Xampp , Python , Machine learning."
 } ,
 {
