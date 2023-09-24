@@ -27,11 +27,11 @@ nav a:hover{
     background-color: rgba(0,0,0,0.3);
 }
 
-nav a.active {
+/* nav a.active {
     background-color: var(--color-primary);
     color: var(--color-bg);
     font-size: 20px;
-}
+} */
 
 
 /* ---------------medium devices-------------------- */
