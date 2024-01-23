@@ -20,7 +20,14 @@ export const responsive = {
 };
 
 export const projectData = [
-  {
+{
+    name : "ShikshaSankalp",
+    github : "https://github.com/vaishnavi1902/shikshasankalp",
+    image : "projects/shikshasankalp.png",
+    desciption : "ShikshaSankalp => A project in which I provided a e-learning platform with three separate modules i.e , login for studennts , login for schools , login for taechers / instructors. This project includes some special types of authentication that we are collecting the Adhar card number as user's unique id for registration and login. ",
+    Technologies : "ReactJs , HTML5 , CSS3 , Bootstrap 5, Javascript, MongoDb , ExpressJS , NodeJS , React Components , EmailJS"
+} ,
+{
     name : "Atmayoga",
     github : "https://github.com/vaishnavi1902/Atmayoga",
     image : "projects/atmayoga.png",
