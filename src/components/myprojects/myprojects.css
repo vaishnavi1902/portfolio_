@@ -36,6 +36,14 @@ p{
     font-size: 17px;
     font-weight: 600;
 }
+.getlive {
+    margin-top: 5px;
+    padding: 10px;
+    font-size: 17px;
+    font-weight: 600;
+    background-color: black;
+    color : rgb(77, 181, 245);
+}
 
 .react-multi-carousel-dot-list {
     display: none !important;

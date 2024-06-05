@@ -11,7 +11,7 @@ export default function Testproducts(props) {
             <p className='description'>{props.desciption}</p>
             <p className='text-primary'>Technologies used : {props.Technologies}</p>
             <a className='btn getcode' href={props.github} rel="noreferrer" target='_blank'>Github</a>
-            <button>Live Demo</button>
+            <a className='btn getlive' href={props.live} rel="noreferrer" target='_blank'>Live Demo</a>
         </div>
     </div>
   );

@@ -21,15 +21,33 @@ export const responsive = {
 
 export const projectData = [
 {
-    name : "ShikshaSankalp",
-    github : "https://github.com/vaishnavi1902/shikshasankalp",
+    name : "Tweetertube",
+    github : "https://github.com/vaishnavi1902/Tweetertube",
+    live : "",
     image : "projects/shikshasankalp.png",
     desciption : "ShikshaSankalp => A project in which I provided a e-learning platform with three separate modules i.e , login for studennts , login for schools , login for taechers / instructors. This project includes some special types of authentication that we are collecting the Adhar card number as user's unique id for registration and login. ",
     Technologies : "ReactJs , HTML5 , CSS3 , Bootstrap 5, Javascript, MongoDb , ExpressJS , NodeJS , React Components , EmailJS"
 } ,
 {
+  name : "Movie Library",
+  github : "https://github.com/vaishnavi1902/MovieLibrary",
+  live : "https://movies-libraries.netlify.app/",
+  image : "projects/portfolio.png",
+  desciption : "Portfolio => This is a ReactJs Project where I displayed everything about myself in the form of website and anyone who want to see my resume can simply go through this project . This project is the same website where we are currently exploring on. We can also contact by using the contact form given at the bottom of page",
+  Technologies : "ReactJs , HTML , CSS , Json , EmailJs , JS."
+} ,
+{
+    name : "Vaishnavi's Portfolio",
+    github : "https://github.com/vaishnavi1902/portfolio_",
+    live : "https://vaishnavi1902.github.io/portfolio_/",
+    image : "projects/portfolio.png",
+    desciption : "Portfolio => This is a ReactJs Project where I displayed everything about myself in the form of website and anyone who want to see my resume can simply go through this project . This project is the same website where we are currently exploring on. We can also contact by using the contact form given at the bottom of page",
+    Technologies : "ReactJs , HTML , CSS , Json , EmailJs , JS."
+} ,
+{
     name : "Atmayoga",
     github : "https://github.com/vaishnavi1902/Atmayoga",
+    live : "http://atmayoga.free.nf/?i=1",
     image : "projects/atmayoga.png",
     desciption : "Atmayoga => A project in which we are giving a brief guidence for doing Yoga / Exercises / Meditation for all types of peaple having different age criteria. There is a special login and dashboard for each user and Admin. In this project we provide the yoga plans according to the need of person considering the age , physic and health of user .",
     Technologies : "HTML5 , CSS3 , Bootstrap 5, Javascript, PHP , MySQL ,SQL, Xampp , Python , Machine learning."
@@ -37,15 +55,9 @@ export const projectData = [
 {
     name : "Animal Safety",
     github : "https://github.com/vaishnavi1902/animal_safety",
+    live : "",
     image : "projects/animal.png",
     desciption : "Animal Safety => This project is a website which helps us to understand and work on the problems of animals. Ex- Animal Shelter , Animal Foods , Animal Medications , Animal Adoptions , etc .In this project we provide the medication facility according to the need of animal considering the family/type , physic and health of animal .",
     Technologies : "HTML5 , CSS3 , Bootstrap 5, Javascript, PHP , MySQL , SQL , Xampp."
-} ,
-{
-    name : "Vaishnavi's Portfolio",
-    github : "https://github.com/vaishnavi1902/portfolio_",
-    image : "projects/portfolio.png",
-    desciption : "Portfolio => This is a ReactJs Project where I displayed everything about myself in the form of website and anyone who want to see my resume can simply go through this project . This project is the same website where we are currently exploring on. We can also contact by using the contact form given at the bottom of page",
-    Technologies : "ReactJs , HTML , CSS , Json , EmailJs , JS."
 }
 ];
