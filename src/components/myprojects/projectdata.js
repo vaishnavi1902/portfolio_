@@ -23,7 +23,7 @@ export const projectData = [
 {
     name : "Tweetertube",
     github : "https://github.com/vaishnavi1902/Tweetertube",
-    live : "",
+    live : "https://github.com/vaishnavi1902/Tweetertube",
     image : "projects/shikshasankalp.png",
     desciption : "ShikshaSankalp => A project in which I provided a e-learning platform with three separate modules i.e , login for studennts , login for schools , login for taechers / instructors. This project includes some special types of authentication that we are collecting the Adhar card number as user's unique id for registration and login. ",
     Technologies : "ReactJs , HTML5 , CSS3 , Bootstrap 5, Javascript, MongoDb , ExpressJS , NodeJS , React Components , EmailJS"
@@ -55,7 +55,7 @@ export const projectData = [
 {
     name : "Animal Safety",
     github : "https://github.com/vaishnavi1902/animal_safety",
-    live : "",
+    live : "https://github.com/vaishnavi1902/animal_safety",
     image : "projects/animal.png",
     desciption : "Animal Safety => This project is a website which helps us to understand and work on the problems of animals. Ex- Animal Shelter , Animal Foods , Animal Medications , Animal Adoptions , etc .In this project we provide the medication facility according to the need of animal considering the family/type , physic and health of animal .",
     Technologies : "HTML5 , CSS3 , Bootstrap 5, Javascript, PHP , MySQL , SQL , Xampp."
