@@ -12,6 +12,7 @@ export default function Testmycode() {
       image={item.image}
       desciption={item.desciption}
       Technologies = {item.Technologies}
+      live = {item.live}
     />
   ));
 

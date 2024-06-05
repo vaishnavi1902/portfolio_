@@ -29,12 +29,12 @@ export const projectData = [
     Technologies : "ReactJs , HTML5 , CSS3 , Bootstrap 5, Javascript, MongoDb , ExpressJS , NodeJS , React Components , EmailJS"
 } ,
 {
-  name : "Movie Library",
-  github : "https://github.com/vaishnavi1902/MovieLibrary",
-  live : "https://movies-libraries.netlify.app/",
-  image : "projects/movie.png",
-  desciption : "Portfolio => This is a ReactJs Project where I displayed everything about myself in the form of website and anyone who want to see my resume can simply go through this project . This project is the same website where we are currently exploring on. We can also contact by using the contact form given at the bottom of page",
-  Technologies : "ReactJs , HTML , CSS , Json , EmailJs , JS."
+    name : "Movie Library",
+    github : "https://github.com/vaishnavi1902/MovieLibrary",
+    live : "https://movies-libraries.netlify.app/",
+    image : "projects/movie.png",
+    desciption : "Portfolio => This is a ReactJs Project where I displayed everything about myself in the form of website and anyone who want to see my resume can simply go through this project . This project is the same website where we are currently exploring on. We can also contact by using the contact form given at the bottom of page",
+    Technologies : "ReactJs , HTML , CSS , Json , EmailJs , JS."
 } ,
 {
     name : "Vaishnavi's Portfolio",
